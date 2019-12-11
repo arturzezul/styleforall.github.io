@@ -1,2 +1,2 @@
-# styleforall.github.io
+# arturzezul.github.io
 australian project
